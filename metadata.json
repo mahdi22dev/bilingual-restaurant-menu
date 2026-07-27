@@ -1,0 +1,6 @@
+{
+  "name": "Bilingual Restaurant Menu",
+  "description": "A responsive Arabic and English restaurant menu landing page with RTL/LTR layout support, QR code generator, interactive category filtering, and dark charcoal saffron theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
