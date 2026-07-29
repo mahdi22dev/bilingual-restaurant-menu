@@ -15,7 +15,7 @@ export default function DishCard({id, onClick}: Props) {
   return (
     <button
       onClick={onClick}
-      className="group text-left w-full rounded-2xl overflow-hidden transition-all cursor-pointer"
+      className="group w-full rounded-2xl overflow-hidden transition-all cursor-pointer"
       style={{
         background: 'var(--bg-card)',
         border: '1px solid var(--border-subtle)',

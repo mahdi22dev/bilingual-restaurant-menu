@@ -1,8 +1,8 @@
 import {useTranslation} from 'react-i18next';
-import {Link} from 'react-router-dom';
 
 export default function Footer() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
+  const isEN = i18n.language === 'en';
 
   return (
     <footer className="pt-16 pb-8" style={{backgroundColor: 'var(--bg-dark)', borderTop: '1px solid var(--border-subtle)'}}>
@@ -25,8 +25,8 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4 className="text-base font-semibold mb-4" style={{color: 'var(--text-muted)'}}>{t('contact.hours')}</h4>
-            <p className="text-sm mb-4" style={{color: 'var(--text-dim)'}}>{t('contact.hours').includes('12:00') ? t('contact.hours') : t('contact.hours')}</p>
+            <h4 className="text-base font-semibold mb-4" style={{color: 'var(--text-muted)'}}>{isEN ? 'Opening Hours' : 'ساعات العمل'}</h4>
+            <p className="text-sm mb-4" style={{color: 'var(--text-dim)'}}>{t('contact.hours')}</p>
             <a
               href="https://wa.me/212600000000"
               target="_blank"
@@ -40,7 +40,7 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4 className="text-base font-semibold mb-4" style={{color: 'var(--text-muted)'}}>{t('nav.contact')}</h4>
+            <h4 className="text-base font-semibold mb-4" style={{color: 'var(--text-muted)'}}>{isEN ? 'Contact & Reservation' : 'التواصل والحجز'}</h4>
             <p className="text-sm mb-2" style={{color: 'var(--text-dim)'}}>{t('contact.address')}</p>
             <p className="text-sm mb-4" style={{color: 'var(--text-dim)'}}>{t('contact.phone')}</p>
             <a
