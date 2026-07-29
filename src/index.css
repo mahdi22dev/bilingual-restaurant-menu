@@ -1,1 +1,72 @@
 @import "tailwindcss";
+
+@theme {
+  --font-heading-en: 'Playfair Display', Georgia, serif;
+  --font-body: 'Tajawal', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+:root {
+  --bg-dark: #1A1A1A;
+  --bg-card: #242424;
+  --bg-card-hover: #2E2E2E;
+  --bg-nav: rgba(26, 26, 26, 0.92);
+
+  --text-light: #F5F0E8;
+  --text-muted: #C5A880;
+  --text-dim: #A0A0A0;
+
+  --accent-saffron: #E8A020;
+  --accent-saffron-hover: #D48E10;
+  --accent-saffron-light: rgba(232, 160, 32, 0.12);
+
+  --border-saffron: rgba(232, 160, 32, 0.3);
+  --border-subtle: rgba(245, 240, 232, 0.1);
+
+  --shadow-card: 0 10px 30px rgba(0, 0, 0, 0.4);
+  --shadow-hover: 0 16px 36px rgba(232, 160, 32, 0.18);
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-pill: 9999px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  background-color: var(--bg-dark);
+  color: var(--text-light);
+  font-family: var(--font-body);
+  line-height: 1.7;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
