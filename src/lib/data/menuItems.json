@@ -1,0 +1,302 @@
+[
+  {
+    "id": "s1",
+    "category": "starters",
+    "diet": "popular",
+    "price": 85,
+    "image": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?w=600&q=80",
+    "name": { "ar": "تشكيلة المزة الملكية", "en": "Royal Mezze Platter" },
+    "desc": {
+      "ar": "حمص ناعم بالزيت الزيتون البكر، متبل الباذنجان المشوي، تبولة طازجة، وورق عنب محشو بالأرز والأعشاب.",
+      "en": "Silky smooth hummus with virgin olive oil, smoky mutabbal, fresh tabbouleh, and hand-rolled stuffed vine leaves."
+    },
+    "ingredients": {
+      "ar": "حمص، باذنجان، زيت زيتون بكر، رمان، أعشاب طازجة",
+      "en": "Chickpeas, roasted eggplant, virgin olive oil, pomegranate seeds, fresh mint & parsley"
+    },
+    "pairing": {
+      "ar": "يتماشى رائعاً مع الخبز البلدي المراكشي الساخن وشاي النعناع.",
+      "en": "Pairs wonderfully with freshly baked Moroccan flatbread and mint tea."
+    }
+  },
+  {
+    "id": "s2",
+    "category": "starters",
+    "diet": "popular",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+    "name": { "ar": "الحريرة المغربية الفاخرة", "en": "Traditional Moroccan Harira" },
+    "desc": {
+      "ar": "شوربة الحمص والعدس المعطرة بالكرفس والكزبرة والبهارات المغربية مع قطع اللحم الطرية.",
+      "en": "Hearty soup of chickpeas, lentils, fresh celery, coriander, and Moroccan spices with tender lamb chunks."
+    },
+    "ingredients": {
+      "ar": "حمص، عدس أحمر، طماطم، طحين، كرفس، بهارات حريرة",
+      "en": "Chickpeas, red lentils, tomatoes, celery, turmeric, ginger, fresh herbs"
+    },
+    "pairing": {
+      "ar": "تُقدم مع التمر المجهول والشباكية العسلية.",
+      "en": "Served traditionally with sweet Medjool dates and sesame chebakia."
+    }
+  },
+  {
+    "id": "s3",
+    "category": "starters",
+    "diet": "vegetarian",
+    "price": 70,
+    "image": "https://images.unsplash.com/photo-1547058881-aa0edd92aab3?w=600&q=80",
+    "name": { "ar": "فلافل دمشقية مع صلصة الطحينة", "en": "Crispy Damascene Falafel" },
+    "desc": {
+      "ar": "أقراص الفلافل المقرمشة المصنوعة من الحمص والأعشاب، تُقدم مع الطحينة الغنية والترشي.",
+      "en": "Golden crispy chickpeas and herb croquettes served with creamy sesame tahini sauce and pickled turnips."
+    },
+    "ingredients": {
+      "ar": "حمص، كزبرة، ثوم، بهارات فلافل، سمسم، صلصة طحينة",
+      "en": "Chickpeas, coriander, garlic, cumin, sesame seeds, house tahini"
+    },
+    "pairing": {
+      "ar": "ممتازة مع مقبلات الباذنجان واللبنة بالثوم.",
+      "en": "Excellent accompanied by garlic labneh and pickled peppers."
+    }
+  },
+  {
+    "id": "s4",
+    "category": "starters",
+    "diet": "spicy",
+    "price": 75,
+    "image": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?w=600&q=80",
+    "name": { "ar": "مقبلات الزالوك وبسطيلة صغيرة", "en": "Spiced Zaalouk & Mini Pastilla" },
+    "desc": {
+      "ar": "سلطة الباذنجان المشوي بالثوم والكمون والصلصة الحارة مع حبات بسطيلة الدجاج المقرمشة.",
+      "en": "Warm smoked eggplant dip infused with garlic, cumin, and harissa alongside golden crispy chicken mini pastillas."
+    },
+    "ingredients": {
+      "ar": "باذنجان، طماطم، هريسة حارة، كمون، رقائق ورقة، دجاج، لوز",
+      "en": "Smoked eggplant, tomatoes, spicy harissa, cumin, filo pastry, spiced chicken, almonds"
+    },
+    "pairing": {
+      "ar": "تُقدم مع الخبز الطازج وزيت الزيتون.",
+      "en": "Best served hot with artisan wood-fired bread."
+    }
+  },
+  {
+    "id": "m1",
+    "category": "mains",
+    "diet": "popular",
+    "price": 165,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80",
+    "name": { "ar": "طاجين اللحم بالبرقوق واللوز", "en": "Lamb Tagine with Prunes & Almonds" },
+    "desc": {
+      "ar": "قطع اللحم الممتازة المطبوخة في طاجين فخاري مع الزعفران الحر، البرقوق المعسل واللوز المحمص.",
+      "en": "Prime cuts of grass-fed lamb simmered in a clay tagine with saffron, honeyed prunes, and toasted almonds."
+    },
+    "ingredients": {
+      "ar": "لحم ضأن، برقوق معسل، زعفران حر، لوز، قرفة، سمسم",
+      "en": "Tender lamb, caramelised prunes, pure saffron, blanched almonds, cinnamon, toasted sesame"
+    },
+    "pairing": {
+      "ar": "الأكلة الأكثر شهرة، تتكامل مع خبز السميد الساخن.",
+      "en": "Our iconic dish, pairs superbly with freshly baked semolina bread."
+    }
+  },
+  {
+    "id": "m2",
+    "category": "mains",
+    "diet": "popular",
+    "price": 155,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=600&q=80",
+    "name": { "ar": "الكسكس المغربي الملكي بالسبع خضار", "en": "Royal Seven-Vegetable Couscous" },
+    "desc": {
+      "ar": "حبوب الكسكس المطهوة على البخار بمهارة عالية مع الخضار الموسمية الطازجة ومرق اللحم المعطر.",
+      "en": "Fluffy hand-rolled steamed couscous topped with caramelized onions, chickpeas, tender meat, and seven seasonal garden vegetables."
+    },
+    "ingredients": {
+      "ar": "سميد كسكس، قرع أحمر، جزر، لفت، حمص، لحم، بهارات كسكس",
+      "en": "Semolina couscous, pumpkin, carrots, turnips, zucchini, chickpeas, aromatic broth"
+    },
+    "pairing": {
+      "ar": "يُقدم مع اللبن الرائب البارد وصوص التفاية.",
+      "en": "Served traditionally with chilled buttermilk (Lben) and sweet onion Tfaya."
+    }
+  },
+  {
+    "id": "m3",
+    "category": "mains",
+    "diet": "spicy",
+    "price": 175,
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+    "name": { "ar": "مشويات قصر الياسمين المشكلة", "en": "Al-Yasmine Royal Mixed Grill" },
+    "desc": {
+      "ar": "تشكيلة فاخرة من كباب اللحم، الشيش طاووق، وقطع أضلاع الضأن المشوية على الفحم مع صوص الهريسة.",
+      "en": "A lavish platter of spiced lamb kebabs, marinated chicken shish tawook, and lamb chops grilled over hardwood charcoal."
+    },
+    "ingredients": {
+      "ar": "لحم ضأن، دجاج متبل، هريسة مغربية، بصل مشوي، طماطم",
+      "en": "Spiced lamb skewers, saffron chicken, garlic toum, spicy harissa, grilled vegetables"
+    },
+    "pairing": {
+      "ar": "تتماشى مع البطاطس المتبلة والأرز المعطر بالزعفران.",
+      "en": "Complemented by spiced batata harra and fragrant saffron rice."
+    }
+  },
+  {
+    "id": "m4",
+    "category": "mains",
+    "diet": "popular",
+    "price": 170,
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&q=80",
+    "name": { "ar": "بسطيلة الفواكه البحرية", "en": "Seafood Pastilla Royale" },
+    "desc": {
+      "ar": "رقائق الورقة الذهبية المحشوة بالجمبري، القلمار، وفيليه السمك الملكي مع الشعرية الصينية والبهارات المغربية.",
+      "en": "Crispy golden filo pastry stuffed with jumbo prawns, calamari, fresh white fish, vermicelli, and aromatic chermoula spices."
+    },
+    "ingredients": {
+      "ar": "جمبري، قلمار، سمك أبيض، شعرية صينية، شرمولة، ليمون مخلل",
+      "en": "Prawns, squid, white fish, glass noodles, spicy chermoula, preserved lemon"
+    },
+    "pairing": {
+      "ar": "تُقدم مع شرائح الليمون الحامض وصوص الهريسة الخفيفة.",
+      "en": "Garnished with fresh lemon wedges and sea salt."
+    }
+  },
+  {
+    "id": "m5",
+    "category": "mains",
+    "diet": "vegetarian",
+    "price": 125,
+    "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=600&q=80",
+    "name": { "ar": "طاجين الخضار الموسمية بالأعشاب", "en": "Berber Organic Vegetable Tagine" },
+    "desc": {
+      "ar": "تشكيلة من أفضل الخضار العضوية المطهوة على نار هادئة في طاجين فخاري مع زيت الزيتون وأعشاب الأطلس.",
+      "en": "A colorful pyramid of slow-cooked organic Atlas garden vegetables infused with cold-pressed olive oil, thyme, and saffron."
+    },
+    "ingredients": {
+      "ar": "بطاطس، جزر، كوسة، طماطم، زيتون أخضر، ليمون مخلل، زعتر",
+      "en": "Potatoes, carrots, zucchini, tomatoes, green olives, preserved lemon, thyme"
+    },
+    "pairing": {
+      "ar": "طبق صحي وغني بالنكهات، يُقدم مع كسكس الخضار.",
+      "en": "A vibrant vegetarian delight served with fluffy couscous."
+    }
+  },
+  {
+    "id": "d1",
+    "category": "desserts",
+    "diet": "popular",
+    "price": 55,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&q=80",
+    "name": { "ar": "تشكيلة الحلويات المغربية التقليدية", "en": "Heritage Moroccan Sweets Trio" },
+    "desc": {
+      "ar": "كعب الغزال المحشو بعجين اللوز وزهر البرتقال، الشباكية المعسلة، والمحنشة بالفستق.",
+      "en": "Delicate Gazelle Horns with almond paste & orange blossom water, honey-soaked Chebakia, and pistachio Baklava."
+    },
+    "ingredients": {
+      "ar": "لوز، ماء زهر البرتقال، عسل حر، سمسم، قرفة",
+      "en": "Almonds, orange blossom water, pure wild honey, sesame, cinnamon"
+    },
+    "pairing": {
+      "ar": "الرفيق الأمثل لأتاي المغربي بالنعناع.",
+      "en": "The quintessential partner for hot authentic mint tea."
+    }
+  },
+  {
+    "id": "d2",
+    "category": "desserts",
+    "diet": "vegetarian",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb?w=600&q=80",
+    "name": { "ar": "كنافة بالزعفران والقشطة البلدية", "en": "Golden Saffron Kunafa with Ashta" },
+    "desc": {
+      "ar": "شعرية الكنافة الذهبية المقرمشة المحشوة بالقشطة البلدية الطازجة والمغسولة بقطر الزعفران والعسل.",
+      "en": "Crispy shredded pastry layered with fresh clotted cream (Ashta), drenched in saffron-infused flower syrup and crushed pistachios."
+    },
+    "ingredients": {
+      "ar": "شعرية كنافة، قشطة بلدية، فستق حلبي، قطر الزعفران",
+      "en": "Shredded kataifi dough, fresh cream, crushed pistachios, saffron syrup"
+    },
+    "pairing": {
+      "ar": "تُقدم دافئة مع القهوة العربية المعطرة.",
+      "en": "Served warm alongside cardamom-spiced Arabic coffee."
+    }
+  },
+  {
+    "id": "d3",
+    "category": "desserts",
+    "diet": "vegetarian",
+    "price": 60,
+    "image": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=600&q=80",
+    "name": { "ar": "بقلاوة ملكية بالفستق الحلبي", "en": "Royal Pistachio Baklava" },
+    "desc": {
+      "ar": "طبقات متعدّدة من العجين الهش المحشو بأجود أنواع الفستق الحلبي والمغطى بالعسل الطبيعي.",
+      "en": "Meticulously layered flaky pastry generously stuffed with Turkish pistachios and glazed with pure wildflower honey."
+    },
+    "ingredients": {
+      "ar": "رقائق العجين، فستق حلبي فاخر، سمن بلدي، عسل حر",
+      "en": "Filo pastry, premium pistachios, clarified butter, wild honey"
+    },
+    "pairing": {
+      "ar": "رائعة مع الشاي أو القهوة المراكشية.",
+      "en": "Delightful with espresso or traditional Moroccan mint tea."
+    }
+  },
+  {
+    "id": "dr1",
+    "category": "drinks",
+    "diet": "popular",
+    "price": 35,
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=600&q=80",
+    "name": { "ar": "أتاي مغربي أصيل بالنعناع", "en": "Authentic Moroccan Fresh Mint Tea" },
+    "desc": {
+      "ar": "شاي أخضر فاخر يُخمر مع أوراق النعناع العبقة وماء الزهر، يُصَب بالطريقة التقليدية العالية.",
+      "en": "Premium green tea steeped with fresh spearmint leaves and orange blossom, poured from high in the authentic ceremonial style."
+    },
+    "ingredients": {
+      "ar": "شاي أخضر، نعناع طازج، سكر قالب، ماء زهر",
+      "en": "Gunpowder green tea, fresh spearmint leaves, sugar, orange blossom drops"
+    },
+    "pairing": {
+      "ar": "موصى به بعد كل وجبة لدعم الهضم وإبراز النكهات.",
+      "en": "Recommended after every meal to enhance digestion and sweet notes."
+    }
+  },
+  {
+    "id": "dr2",
+    "category": "drinks",
+    "diet": "vegetarian",
+    "price": 40,
+    "image": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=600&q=80",
+    "name": { "ar": "عصير البرتقال المراكشي بماء الزهر", "en": "Fresh Marrakesh Orange & Blossom" },
+    "desc": {
+      "ar": "عصير برتقال أطلسي معصور طازجاً، معطر بلمسات من ماء الزهر النقي والقرفة الناعمة.",
+      "en": "Freshly squeezed Atlas oranges infused with organic orange blossom water and a delicate dust of cinnamon."
+    },
+    "ingredients": {
+      "ar": "برتقال طازج، ماء زهر البرتقال، قرفة ناعمة",
+      "en": "Freshly squeezed oranges, pure orange blossom water, cinnamon dust"
+    },
+    "pairing": {
+      "ar": "منعش جداً خاصة في أوقات الظهيرة المشمسة.",
+      "en": "Incredibly refreshing during sunny afternoons."
+    }
+  },
+  {
+    "id": "dr3",
+    "category": "drinks",
+    "diet": "vegetarian",
+    "price": 35,
+    "image": "https://images.unsplash.com/photo-1587734195503-904fca47e0e9?w=600&q=80",
+    "name": { "ar": "قهوة عربية بالبهارات والهيل", "en": "Spiced Arabic Cardamom Coffee" },
+    "desc": {
+      "ar": "قهوة عربية محمصة خفيفة ومطحونة مع حبات الهيل الأخضر والزعفران والمستكة.",
+      "en": "Lightly roasted Arabica coffee brewed with green cardamom pods, saffron threads, and natural mastic."
+    },
+    "ingredients": {
+      "ar": "بن عربي، هيل أخضر، زعفران، مستكة، ماء ورد",
+      "en": "Arabica beans, cardamom pods, saffron threads, rose water"
+    },
+    "pairing": {
+      "ar": "تُقدم مع تمر المجهول الفاخر.",
+      "en": "Comes paired with premium Medjool dates."
+    }
+  }
+]
