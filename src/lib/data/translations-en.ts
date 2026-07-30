@@ -116,7 +116,7 @@ const en = {
     d1: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&q=80',
     d2: 'https://images.unsplash.com/photo-1599785209707-a456fc1337bb?w=600&q=80',
     d3: 'https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=600&q=80',
-    dr1: 'https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=600&q=80',
+    dr1: 'https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=600&q=80',
     dr2: 'https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=600&q=80',
     dr3: 'https://images.unsplash.com/photo-1587734195503-904fca47e0e9?w=600&q=80',
     hero: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1400&q=80',
